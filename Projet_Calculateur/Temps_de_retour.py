@@ -2,7 +2,7 @@ from tkinter import *
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
-from Varables_Fixes import *
+from Variables_Fixes import *
 #Root window
 root = tk.Tk()
 w = root.winfo_height

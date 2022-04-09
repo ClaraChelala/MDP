@@ -2,7 +2,7 @@ from tkinter import *
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
-from Varables_Fixes import *
+from Variables_Fixes import *
 
 # Coef_De_Charge = {'Photovoltaique':0.3, 'CSP': 0.95, 'Dechets':0.95, 'Eolienne offshore': 0.4}
 # Prix_du_kw = {'Photovoltaique':3000, 'CSP': 2000, 'Dechets':4200, 'Eolienne offshore':5000}
