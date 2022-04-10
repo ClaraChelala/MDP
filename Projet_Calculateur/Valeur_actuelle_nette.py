@@ -11,7 +11,7 @@ from Variables_Fixes import *
 #Root window
 root = tk.Tk()
 w = root.winfo_height
-root.geometry("600x200")
+root.geometry("550x200")
 root.title("Valeur actuelle nette")
 root.configure(bg = 'white')
 

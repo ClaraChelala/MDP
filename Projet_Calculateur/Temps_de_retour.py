@@ -6,7 +6,7 @@ from Variables_Fixes import *
 #Root window
 root = tk.Tk()
 w = root.winfo_height
-root.geometry("450x175")
+root.geometry("550x200")
 root.title("Prix du KWh")
 root.configure(bg = 'white')
 
